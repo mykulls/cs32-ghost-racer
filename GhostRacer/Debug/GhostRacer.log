@@ -1,0 +1,11 @@
+﻿  Actor.cpp
+C:\Users\fatmi\Desktop\Development\GitHub\cs32-ghost-racer\GhostRacer\StudentWorld.h(18,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\fatmi\Desktop\Development\GitHub\cs32-ghost-racer\GhostRacer\StudentWorld.h(19,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\fatmi\Desktop\Development\GitHub\cs32-ghost-racer\GhostRacer\StudentWorld.h(18,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\fatmi\Desktop\Development\GitHub\cs32-ghost-racer\GhostRacer\StudentWorld.h(19,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GhostRacer.vcxproj -> C:\Users\fatmi\Desktop\Development\GitHub\cs32-ghost-racer\Debug\GhostRacer.exe
